@@ -26,6 +26,6 @@ Screenshots / Demos
 
 Show what the dashboard looks like.
 
-Dashboard Page 1 : 
+Dashboard Page 1 : https://github.com/ermadhur26/Pizza-Sales-Analysis/blob/main/Overall%20Sales%20Analysis.png
 
 Dashboard Page 2 : 
