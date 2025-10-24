@@ -21,3 +21,11 @@ Weekend evenings account for the majority of sales.
 Opportunities exist in weekday lunch offerings to boost overall performance.
 
 📊 Tools Used: Power BI, DAX, and data modeling for KPIs.
+
+Screenshots / Demos
+
+Show what the dashboard looks like.
+
+Dashboard Page 1 : 
+
+Dashboard Page 2 : 
